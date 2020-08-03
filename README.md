@@ -1,1 +1,1 @@
-This is the final version of our webpage.
+This is the final version of the inline and block element exercises.
