@@ -21,4 +21,6 @@ For this exercise we used html
 
 ## Legal
 _Copyright (c) 2020 Adam Mansell, Joseph Nilles_
+
+
 _This software is licensed under the MIT license._
